@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/UMESH-KALE0777/leetcode-submissions/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/UMESH-KALE0777/leetcode-submissions/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/UMESH-KALE0777/leetcode-submissions/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/UMESH-KALE0777/leetcode-submissions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/UMESH-KALE0777/leetcode-submissions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/UMESH-KALE0777/leetcode-submissions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/UMESH-KALE0777/leetcode-submissions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/UMESH-KALE0777/leetcode-submissions/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/UMESH-KALE0777/leetcode-submissions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/UMESH-KALE0777/leetcode-submissions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/UMESH-KALE0777/leetcode-submissions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Bit Manipulation
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/UMESH-KALE0777/leetcode-submissions/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/UMESH-KALE0777/leetcode-submissions/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/UMESH-KALE0777/leetcode-submissions/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/UMESH-KALE0777/leetcode-submissions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/UMESH-KALE0777/leetcode-submissions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
@@ -248,4 +251,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/UMESH-KALE0777/leetcode-submissions/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/UMESH-KALE0777/leetcode-submissions/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/UMESH-KALE0777/leetcode-submissions/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/UMESH-KALE0777/leetcode-submissions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
