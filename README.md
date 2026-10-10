@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/UMESH-KALE0777/leetcode-submissions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/UMESH-KALE0777/leetcode-submissions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/UMESH-KALE0777/leetcode-submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/UMESH-KALE0777/leetcode-submissions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/UMESH-KALE0777/leetcode-submissions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/UMESH-KALE0777/leetcode-submissions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/UMESH-KALE0777/leetcode-submissions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/UMESH-KALE0777/leetcode-submissions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/UMESH-KALE0777/leetcode-submissions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/UMESH-KALE0777/leetcode-submissions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/UMESH-KALE0777/leetcode-submissions/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/UMESH-KALE0777/leetcode-submissions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/UMESH-KALE0777/leetcode-submissions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/UMESH-KALE0777/leetcode-submissions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/UMESH-KALE0777/leetcode-submissions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/UMESH-KALE0777/leetcode-submissions/tree/master/3620-network-recovery-pathways) |
@@ -140,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/UMESH-KALE0777/leetcode-submissions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/UMESH-KALE0777/leetcode-submissions/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/UMESH-KALE0777/leetcode-submissions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/UMESH-KALE0777/leetcode-submissions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/UMESH-KALE0777/leetcode-submissions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/UMESH-KALE0777/leetcode-submissions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/UMESH-KALE0777/leetcode-submissions/tree/master/3536-maximum-product-of-two-digits) |
@@ -178,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/UMESH-KALE0777/leetcode-submissions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/UMESH-KALE0777/leetcode-submissions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/UMESH-KALE0777/leetcode-submissions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/UMESH-KALE0777/leetcode-submissions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/UMESH-KALE0777/leetcode-submissions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Bit Manipulation
 |  |
