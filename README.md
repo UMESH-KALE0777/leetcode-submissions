@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/UMESH-KALE0777/leetcode-submissions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/UMESH-KALE0777/leetcode-submissions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/UMESH-KALE0777/leetcode-submissions/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/UMESH-KALE0777/leetcode-submissions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/UMESH-KALE0777/leetcode-submissions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/UMESH-KALE0777/leetcode-submissions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/UMESH-KALE0777/leetcode-submissions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1331-rank-transform-of-an-array](https://github.com/UMESH-KALE0777/leetcode-submissions/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/UMESH-KALE0777/leetcode-submissions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/UMESH-KALE0777/leetcode-submissions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3312-sorted-gcd-pair-queries](https://github.com/UMESH-KALE0777/leetcode-submissions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/UMESH-KALE0777/leetcode-submissions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/UMESH-KALE0777/leetcode-submissions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -184,10 +186,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/UMESH-KALE0777/leetcode-submissions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/UMESH-KALE0777/leetcode-submissions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/UMESH-KALE0777/leetcode-submissions/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/UMESH-KALE0777/leetcode-submissions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/UMESH-KALE0777/leetcode-submissions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/UMESH-KALE0777/leetcode-submissions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/UMESH-KALE0777/leetcode-submissions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/UMESH-KALE0777/leetcode-submissions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/UMESH-KALE0777/leetcode-submissions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
