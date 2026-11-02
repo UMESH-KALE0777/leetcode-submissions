@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/UMESH-KALE0777/leetcode-submissions/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/UMESH-KALE0777/leetcode-submissions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/UMESH-KALE0777/leetcode-submissions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1254-number-of-closed-islands](https://github.com/UMESH-KALE0777/leetcode-submissions/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/UMESH-KALE0777/leetcode-submissions/tree/master/1260-shift-2d-grid) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/UMESH-KALE0777/leetcode-submissions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/UMESH-KALE0777/leetcode-submissions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/UMESH-KALE0777/leetcode-submissions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/UMESH-KALE0777/leetcode-submissions/tree/master/1331-rank-transform-of-an-array) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/UMESH-KALE0777/leetcode-submissions/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/UMESH-KALE0777/leetcode-submissions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/UMESH-KALE0777/leetcode-submissions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1406-stone-game-iii](https://github.com/UMESH-KALE0777/leetcode-submissions/tree/master/1406-stone-game-iii) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/UMESH-KALE0777/leetcode-submissions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
