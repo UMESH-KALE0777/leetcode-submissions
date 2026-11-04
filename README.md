@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3312-sorted-gcd-pair-queries](https://github.com/UMESH-KALE0777/leetcode-submissions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/UMESH-KALE0777/leetcode-submissions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/UMESH-KALE0777/leetcode-submissions/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/UMESH-KALE0777/leetcode-submissions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/UMESH-KALE0777/leetcode-submissions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/UMESH-KALE0777/leetcode-submissions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/UMESH-KALE0777/leetcode-submissions/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/UMESH-KALE0777/leetcode-submissions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/UMESH-KALE0777/leetcode-submissions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/UMESH-KALE0777/leetcode-submissions/tree/master/3312-sorted-gcd-pair-queries) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/UMESH-KALE0777/leetcode-submissions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/UMESH-KALE0777/leetcode-submissions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/UMESH-KALE0777/leetcode-submissions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/UMESH-KALE0777/leetcode-submissions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/UMESH-KALE0777/leetcode-submissions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/UMESH-KALE0777/leetcode-submissions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Binary Search
 |  |
 | ------- |
@@ -126,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/UMESH-KALE0777/leetcode-submissions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/UMESH-KALE0777/leetcode-submissions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/UMESH-KALE0777/leetcode-submissions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/UMESH-KALE0777/leetcode-submissions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3620-network-recovery-pathways](https://github.com/UMESH-KALE0777/leetcode-submissions/tree/master/3620-network-recovery-pathways) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/UMESH-KALE0777/leetcode-submissions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Matrix
@@ -166,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/UMESH-KALE0777/leetcode-submissions/tree/master/1406-stone-game-iii) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/UMESH-KALE0777/leetcode-submissions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/UMESH-KALE0777/leetcode-submissions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/UMESH-KALE0777/leetcode-submissions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/UMESH-KALE0777/leetcode-submissions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/UMESH-KALE0777/leetcode-submissions/tree/master/3620-network-recovery-pathways) |
 | [3665-twisted-mirror-path-count](https://github.com/UMESH-KALE0777/leetcode-submissions/tree/master/3665-twisted-mirror-path-count) |
@@ -211,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2409-count-days-spent-together](https://github.com/UMESH-KALE0777/leetcode-submissions/tree/master/2409-count-days-spent-together) |
 | [3312-sorted-gcd-pair-queries](https://github.com/UMESH-KALE0777/leetcode-submissions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/UMESH-KALE0777/leetcode-submissions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/UMESH-KALE0777/leetcode-submissions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/UMESH-KALE0777/leetcode-submissions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/UMESH-KALE0777/leetcode-submissions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/UMESH-KALE0777/leetcode-submissions/tree/master/3536-maximum-product-of-two-digits) |
