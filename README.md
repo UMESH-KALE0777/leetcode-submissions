@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/UMESH-KALE0777/leetcode-submissions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/UMESH-KALE0777/leetcode-submissions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/UMESH-KALE0777/leetcode-submissions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/UMESH-KALE0777/leetcode-submissions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/UMESH-KALE0777/leetcode-submissions/tree/master/2409-count-days-spent-together) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/UMESH-KALE0777/leetcode-submissions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/UMESH-KALE0777/leetcode-submissions/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1260-shift-2d-grid](https://github.com/UMESH-KALE0777/leetcode-submissions/tree/master/1260-shift-2d-grid) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/UMESH-KALE0777/leetcode-submissions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/UMESH-KALE0777/leetcode-submissions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/UMESH-KALE0777/leetcode-submissions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Combinatorics
 |  |
