@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/UMESH-KALE0777/leetcode-submissions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/UMESH-KALE0777/leetcode-submissions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/UMESH-KALE0777/leetcode-submissions/tree/master/2409-count-days-spent-together) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/UMESH-KALE0777/leetcode-submissions/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/UMESH-KALE0777/leetcode-submissions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/UMESH-KALE0777/leetcode-submissions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/UMESH-KALE0777/leetcode-submissions/tree/master/3517-smallest-palindromic-rearrangement-i) |
